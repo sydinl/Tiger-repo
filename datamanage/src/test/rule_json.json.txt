@@ -1,0 +1,13 @@
+{"sourceFileName":"5-2-1.csv",
+    "destS3Path":"tiger\/upload\/BJ\/FSI\/inbound\/",
+    "destFileName":"WSS_FSI_YYYYMMDDHHMMSS.json",
+    "ruleName":"WSS_BJ_FSI_CSV_JSON",
+    "sourceColumn":"ADDR",
+    "destinationColumn":"COUNTRY",
+    "validationRule":"*",
+    "dataRule":"SUBSTR(0,5)",
+    "sourceApp":"WSS",
+    "destModuleName":"FSI",
+    "sourceModuleName":"FSI",
+    "sourceS3Path":"tiger\/upload\/WSS\/FSI\/inbound\/",
+    "destApp":"BJ"}

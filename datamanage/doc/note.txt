@@ -1,0 +1,32 @@
+webconsole:
+https://dashboard.eventengine.run/login?hash=c4fa-0cad67bfc4-0e
+git link:
+https://git-codecommit.ap-south-1.amazonaws.com/v1/repos/Tiger-repo
+
+git clone https://git-codecommit.ap-south-1.amazonaws.com/v1/repos/Tiger-repo
+
+git account:
+UserName:
+wzp+1-at-686868645966	
+Password:
+tRrdMkwSc1jmBcGmcPfQ32ahasGIx/aiqZBWak4jr2w=
+
+DB username/pwd:
+tiger/tiger_2022
+
+DB link:
+database-1.c7a64tptshs7.ap-south-1.rds.amazonaws.com
+
+zoom meeting line:
+4711741793
+d3g#rX
+
+
+12:00PM -> 10:30PM  DESIGN
+6:00AM -> 10:00AM 
+11PM -> 2:30PM
+
+
+
+
+

@@ -1,0 +1,36 @@
+2.Upload  to S3
+
+Source configuration , destination configuration 
+
+Table: Rule_conf
+Rule_id, rule_name
+
+Table: rule_conf_detail
+Rule_id
+Rule_details_id
+Source column/header, data_rule,validation_rule
+Destination_column
+
+3.App integration (app_link_info)
+	App_id
+	App_name
+	Link_type(JDBC/HTTP/S3/KAFKA)
+	CONNECTION_LINK
+	USERNAME
+PASSWORD 
+Data_parameter
+ACTIVE_FLG
+
+4.Module_CONF
+MODULE_ID, App_id,module _name,data_format,S3_PATH, FILE_NAME
+
+5.SOURCE_DESTINATION_MAPPING
+Source_module_id, destination_module_id ,rule_id
+
+File_name: source_module_id-destination_module_id- rule_id
+
+Table : Application_map(Source_app_id, destination_app_id,mapping_rule_id,File_path
+	File_name_format)
+
+
+File_name: source_module_id-destination_module_id- rule_id
